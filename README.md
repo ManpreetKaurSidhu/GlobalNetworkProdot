@@ -19,3 +19,4 @@ Design, configure, and document a fully functional multi-office enterprise netwo
 - Devices used: 2911 Router, 3560 MLS, Access-Point PT, 2960 Switch, Server-PT, PC, Laptop, Smart Phone, Tablet
 - Adding two HWIC-2T modules to enable serial connections in routers to enable redundant connections
 - Routers connected in mesh topology for redundancy
+- [Topology Design document](https://github.com/ManpreetKaurSidhu/GlobalNetworkProdot/blob/main/Topology%20Design.docx)
